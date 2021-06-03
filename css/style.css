@@ -1,0 +1,18 @@
+/* landings pagina */
+#gerechten{
+    margin: 200px 0px;
+}
+
+#frisdranken{
+    margin: 200px 0px;
+}
+
+.items{
+    margin-bottom: 70px;
+}
+
+/* footer */
+footer{
+    background-color: #ffa500!important;
+    padding: 20px 0px;
+}
